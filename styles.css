@@ -7,7 +7,7 @@ body {
 
 /* navigation bar */
 nav {
-    border: 2px solid pink;
+    /* border: 2px solid pink; */
     position: fixed;
     display: flex;
     justify-content: space-between;
@@ -61,7 +61,7 @@ button {
 
 /* .parent */
 .parent {
-    border: 2px solid green;
+    /* border: 2px solid green; */
     display: flex;
     flex-direction: column;
     height: auto;
@@ -70,7 +70,7 @@ button {
 
 /* child1 */
 .child1 {
-    border: 2px solid purple;
+    /* border: 2px solid purple; */
     display: flex;
     flex-direction: column;
     align-items: left;
@@ -97,7 +97,7 @@ button {
 
 /* child2 */
 .child2 {
-    border: 2px solid rgb(25, 193, 236);
+    /* border: 2px solid rgb(25, 193, 236); */
     display: flex;
     margin: 0px 0px 100px 205px;
     padding: 0px 20px 20px 20px;
